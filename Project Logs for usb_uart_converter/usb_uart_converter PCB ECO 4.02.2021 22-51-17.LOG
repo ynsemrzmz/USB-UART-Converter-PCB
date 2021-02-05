@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VCC Pin=R2-1
+Added Pin To Net: NetName=VCC Pin=U1-13
+Change Net Name : Old Net Name=VCC New Net Name=DTR
+Added Pin To Net: NetName=VCC Pin=J2-1
+Added Pin To Net: NetName=VCC Pin=R2-1
+Added Net: Name=VCC
+Added Room: Name=usb_uart_converter
