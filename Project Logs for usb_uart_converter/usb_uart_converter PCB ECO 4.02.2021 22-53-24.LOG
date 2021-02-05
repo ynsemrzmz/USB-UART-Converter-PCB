@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=DTR Pin=J2-4
-Removed Pin From Net: NetName=DTR Pin=U1-13
-Added Pin To Net: NetName=DTR Pin=J2-1
-Added Pin To Net: NetName=DTR Pin=R2-1
-Change Net Name : Old Net Name=DTR New Net Name=VCC
-Added Pin To Net: NetName=DTR Pin=J2-4
-Added Pin To Net: NetName=DTR Pin=U1-13
-Added Net: Name=DTR
-Added Room: Name=usb_uart_converter
